@@ -4,8 +4,8 @@
 ## ⚡ Intro
 This program was made for my first ever job interview.\
 At that point I only had about a week of experience with Java (#DontJudge)\
-I learnt a lote from this project and it was importent for me even as\
-just a reminder for myself where I started and what I'm capable of now :)
+I learnt a lote from this project and it was importent for me to iclude it in my github
+even as just a reminder for myself where I started and what I'm capable of now :)
 
 
 
